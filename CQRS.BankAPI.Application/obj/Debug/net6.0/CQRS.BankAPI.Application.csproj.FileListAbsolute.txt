@@ -1,0 +1,5 @@
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Application\obj\Debug\net6.0\CQRS.BankAPI.Application.csproj.AssemblyReference.cache
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Application\obj\Debug\net6.0\CQRS.BankAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Application\obj\Debug\net6.0\CQRS.BankAPI.Application.AssemblyInfoInputs.cache
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Application\obj\Debug\net6.0\CQRS.BankAPI.Application.AssemblyInfo.cs
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Application\obj\Debug\net6.0\CQRS.BankAPI.Application.csproj.CoreCompileInputs.cache

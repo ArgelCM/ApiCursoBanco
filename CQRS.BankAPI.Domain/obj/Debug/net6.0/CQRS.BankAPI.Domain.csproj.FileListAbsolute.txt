@@ -1,0 +1,12 @@
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\bin\Debug\net6.0\CQRS.BankAPI.Domain.deps.json
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\bin\Debug\net6.0\CQRS.BankAPI.Domain.dll
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\bin\Debug\net6.0\ref\CQRS.BankAPI.Domain.dll
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\bin\Debug\net6.0\CQRS.BankAPI.Domain.pdb
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\CQRS.BankAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\CQRS.BankAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\CQRS.BankAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\CQRS.BankAPI.Domain.AssemblyInfo.cs
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\CQRS.BankAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\CQRS.BankAPI.Domain.dll
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\ref\CQRS.BankAPI.Domain.dll
+C:\Users\argel\OneDrive\Escritorio\Net-6-API-Cqrs-master\CQRS.BankAPI.Domain\obj\Debug\net6.0\CQRS.BankAPI.Domain.pdb
